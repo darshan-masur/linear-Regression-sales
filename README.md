@@ -35,24 +35,18 @@ Linear Regression/
 ## How to run
 
 1. Clone the repository
-2. Install the dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
-3. Open the notebook:
-   ```
-   jupyter notebook "Linear Regression.ipynb"
-   ```
+2. Go to [Google Colab](https://colab.research.google.com/)
+3. Click **File → Upload notebook** and upload `Linear Regression.ipynb`
+4. Upload `Advertising.csv` to the Colab session files (left sidebar → upload icon)
+5. Run all cells
 
-## Dependencies
+## Tools & Libraries used
 
-- Python 3.x
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- jupyter
+- **Google Colab** — cloud-based notebook environment
+- **pandas** — data loading and manipulation
+- **numpy** — numerical operations
+- **matplotlib & seaborn** — data visualization
+- **scikit-learn** — model building and evaluation
 
 ## Key Takeaways
 
